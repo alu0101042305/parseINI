@@ -4,5 +4,29 @@
   },
   "dependencies": {
     "should": "^13.2.3"
-  }
+  },
+  "name": "@alu0101042305/parseini",
+  "version": "1.0.0",
+  "description": "Parseador de .INI a JSON",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alu0101042305/parseINI.git"
+  },
+  "keywords": [
+    "INI",
+    "JSON",
+    "parser"
+  ],
+  "author": "Lucas Alonso Ortega",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alu0101042305/parseINI/issues"
+  },
+  "homepage": "https://github.com/alu0101042305/parseINI#readme"
 }
